@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 Innovations Lead @Bulkbox
 -------------------------
-I discovered my passion for coding while learning Data Science two years ago. Since then, I've been diving into web app development with the Frappe framework, inspired by my experience at Bulkbox.
+I discovered my passion for coding while learning Data Science two years ago. Since then, I've been diving into development with the Frappe framework, inspired by my experience at Bulkbox.
 * :earth_africa:  I'm based in Nairobi, Kenya
 * :email:  You can contact me at [gaturanjenga@gmail.com](mailto:gaturanjenga@gmail.com)
 * :brain:  I'm learning Frappe framework
