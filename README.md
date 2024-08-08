@@ -4,7 +4,7 @@ My name is Francis Njenga
 ======================================================================================================================================
 Innovations Lead @Bulkbox
 -------------------------
-I discovered my passion for coding while learning Data Science two years ago. Since then, I've been diving into development with the Frappe framework, inspired by my experience at Bulkbox.
+
 * :earth_africa:  I'm based in Nairobi, Kenya
 * :email:  You can contact me at [gaturanjenga@gmail.com](mailto:gaturanjenga@gmail.com)
 * :brain:  I'm learning Frappe framework
