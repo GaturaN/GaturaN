@@ -6,6 +6,6 @@ Product Engineer @Bulkbox
 -------------------------
 
 * :earth_africa:  I'm based in Nairobi, Kenya
-* :email:  You can contact me [here](mailto:gaturanjenga@gmail.com)
+* :email:  You can email me @ [gaturanjenga@gmail.com](mailto:gaturanjenga@gmail.com)
 * :brain:  I'm learning Frappe framework
 * :arrows_counterclockwise: Proficient in n8n and Make.com
