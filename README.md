@@ -2,11 +2,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 My name is Francis Njenga
 ======================================================================================================================================
-Innovations Lead @Bulkbox
+Product Engineer @Bulkbox
 -------------------------
 
 * :earth_africa:  I'm based in Nairobi, Kenya
-* :email:  You can contact me at [gaturanjenga@gmail.com](mailto:gaturanjenga@gmail.com)
+* :email:  You can contact me [here](mailto:gaturanjenga@gmail.com)
 * :brain:  I'm learning Frappe framework
 * :arrows_counterclockwise: Proficient in n8n and Make.com
 ### Skills
