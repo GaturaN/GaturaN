@@ -10,9 +10,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ---
 
-### About Me
-As a dedicated Product Engineer, I specialize in creating efficient solutions with a passion for building seamless integrations and workflows. My work revolves around leveraging the power of automation platforms and frameworks to enhance productivity and streamline processes.
-
 ### Key Skills & Focus Areas
 - 🚀 **Mastering the Frappe Framework:** Consistently improving and pushing the boundaries of what’s possible with Frappe to build custom, effective solutions.
 - 🔄 **Automation Proficiency:** Highly skilled in n8n and Make.com, driving powerful automation for complex business workflows.
