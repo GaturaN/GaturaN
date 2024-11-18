@@ -1,7 +1,6 @@
-Hi
+
 # Francis Njenga
 
----
 
 **Product Engineer @ Bulkbox**
 
